@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own projects<br>👯 I’m looking to collaborate with others developers<br>🌱 I’m currently learning NextJS 13<br>⚡ Colombia
+🔭 I’m currently working on my own projects<br>👯 I’m looking to collaborate with others developers<br>🌱 I’m currently learning vue js<br>⚡ Colombia
 
 
 ## 🌐 Socials:
