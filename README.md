@@ -1,24 +1,27 @@
-# Jharvey Leonardo Valderrama
+Jharvey Leonardo Valderrama
+DevOps Engineer | AWS Certified Solutions Architect – Professional
+Tunja, Colombia | leonardovalde16@gmail.com | LinkedIn
 
-**DevOps Engineer | AWS Certified Solutions Architect – Associate**  
-📍 Tunja, Colombia | ✉️ leonardovalde16@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/leonardo-valderrama/)
+About Me
+Systems Engineer specializing in cloud infrastructure management, automation, DevSecOps, and CI/CD pipelines. Experienced in designing scalable and secure multi-account AWS environments using Infrastructure as Code (IaC).
 
----
+Current Focus: Advanced cloud architecture, containerization, and DevSecOps best practices.
 
-### 💡 About Me
+Certifications:
 
-Systems Engineer with expertise in cloud infrastructure management, automation, DevSecOps, and CI/CD pipelines. Currently focused on IaC, enterprise security, and multi-account AWS environments.
+AWS Certified Solutions Architect – Professional
 
-- 🔭 **Current Role:** DevOps Engineer (AWS, Terraform, CI/CD, Observability).
-- 📜 **Certification:** AWS Certified Solutions Architect – Associate.
-- 💬 **Languages:** Spanish (Native), English (B2 Upper-Intermediate).
-- 🌱 **Learning:** Advanced Cloud Architecture, Kubernetes & Vue.js.
+AWS Certified Solutions Architect – Associate
 
----
+Languages: Spanish (Native), English (B2 Upper-Intermediate).
 
-### 🛠️ Core Stack
+In Progress: Google Cloud Certification.
 
-- **Cloud & IaC:** AWS (EC2, S3, RDS, ECS, Lambda, Secrets Manager), Terraform, CloudFormation.
-- **CI/CD & Containers:** Azure DevOps, Docker, GitHub Actions, SonarQube.
-- **Observability & Security:** Grafana, Prometheus, Loki, Tempo, AWS WAF, IAM & Entra ID.
-- **Scripting & DBs:** Python, Bash, PowerShell | PostgreSQL, MySQL, MongoDB, Redis.
+Core Stack
+Cloud & IaC: AWS (EC2, S3, RDS, ECS, Lambda, Secrets Manager), Terraform, CloudFormation.
+
+CI/CD & Containers: Azure DevOps, Docker, GitHub Actions, SonarQube.
+
+Observability & Security: Grafana, Prometheus, Loki, Tempo, AWS WAF, IAM & Entra ID.
+
+Scripting & DBs: Python, Bash, PowerShell | PostgreSQL, MySQL, MongoDB, Redis.
